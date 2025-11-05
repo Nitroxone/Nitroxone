@@ -1,4 +1,4 @@
-hi I’m @savisra
+hi I’m @phusinte
 - I'm a web developer
 - actively working on a roguelite game named Soulbinder (tba)
 - I like: writing clean and well documented code | UI design | coffee
